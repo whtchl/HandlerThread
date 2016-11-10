@@ -1,6 +1,6 @@
 # HandlerThread
 handleThread 例子
-<img src="https://raw.githubusercontent.com/whtchl/HandlerThread/master/pic/log.png"/>
+<img src="https://github.com/whtchl/HandlerThread/tree/master/ThreadHandle/pic/log.png"/>
 
 这里用到了HandlerThread.HandlerThread和UI是两个线程，程序中n他们之间通过send  Message相互通信。
 
